@@ -24,7 +24,7 @@
 
 
 ## USECASE
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/8ef71d1b-6525-4486-b611-866c25614168" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8ef71d1b-6525-4486-b611-866c25614168" />
 
 ### 데이터 수신 및 파싱
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/81496d85-5d1b-4e95-ad5e-47c246ef0fcc" />
@@ -35,6 +35,6 @@
 
 
 ## 테스트
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/f67c8c0f-f8d2-45f1-affd-1cbfc44b7652" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f67c8c0f-f8d2-45f1-affd-1cbfc44b7652" />
 
