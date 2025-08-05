@@ -1,4 +1,4 @@
-# 🐮 온습도 관리를 위한 스마트 축사
+<img width="927" height="697" alt="image" src="https://github.com/user-attachments/assets/11a7415c-b9e4-4241-9ce7-a4d4896c9091" /># 🐮 온습도 관리를 위한 스마트 축사
 
 ## 개요
 이상기후로 이내 가축의 폐사가 급격히 증가,
@@ -20,6 +20,8 @@
 
 
 ## USECASE
+<img width="927" height="697" alt="image" src="https://github.com/user-attachments/assets/8ef71d1b-6525-4486-b611-866c25614168" />
+
 
 
 ## Flow Chart
