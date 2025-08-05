@@ -22,8 +22,10 @@
 
 ## 하드웨어
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ff234533-fa1e-4f53-81cb-4a3e72714f10" />
+
 ### 보드
 STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+
+
 ### 송수신
 - HC-06 블루투스 모듈
 
@@ -51,6 +53,7 @@ STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+
 
 ## 테스트
 유튜브 링크 : https://youtu.be/lQedsSYqslA
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/f67c8c0f-f8d2-45f1-affd-1cbfc44b7652" />
 
