@@ -49,7 +49,7 @@ STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN7
 
 
 ## Flow Chart
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/8286215e-5a55-403e-a16a-0b6217649674" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8286215e-5a55-403e-a16a-0b6217649674" />
 
 
 
