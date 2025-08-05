@@ -23,20 +23,20 @@
 ## 하드웨어
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ff234533-fa1e-4f53-81cb-4a3e72714f10" />
 
-### 보드
-STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+
+### 보드 및 칩
+STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN74H595N)
 
 ### 송수신
-- HC-06 블루투스 모듈
+- 블루투스 모듈(HC-06)
 
 ### 정보 표현
-- LCD, 8x8 도트매트릭스
+- LCD(LCD1602), 8x8 도트매트릭스(1088BS)
   
 ### 온습도 데이터 수집
-- DHT22 온습도 센서
+- 온습도 센서(DHT11)
   
 ### 온습도 값에 의한 동작 센서
-- 가습기 모듈, FAN, RGB LED(제습, 히터 역할 대체)
+- 가습기 모듈, FAN(EZ모터 300), RGB LED_제습, 히터 역할 대체(SZH-EK058)
 
 
 
@@ -49,6 +49,8 @@ STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+
 
 
 ## Flow Chart
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8286215e-5a55-403e-a16a-0b6217649674" />
+
 
 
 ## 테스트
