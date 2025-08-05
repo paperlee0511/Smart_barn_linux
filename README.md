@@ -36,7 +36,7 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/ff234533-fa1e-4f53-81cb-4a3e72714f10" />
 
 ### 보드 및 칩
-STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN74H595N)
+- STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN74H595N)
 
 ### 송수신
 - 블루투스 모듈(HC-06)
