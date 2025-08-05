@@ -55,8 +55,7 @@ STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN7
 
 ## 테스트
 유튜브 링크 : https://youtu.be/lQedsSYqslA
-
-
+![스마트축사_readme용](https://github.com/user-attachments/assets/866fb942-42ba-4ab1-b665-774e15bbe141)
 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
