@@ -27,7 +27,7 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/8ef71d1b-6525-4486-b611-866c25614168" />
 
 ### 데이터 수신 및 파싱
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/81496d85-5d1b-4e95-ad5e-47c246ef0fcc" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/81496d85-5d1b-4e95-ad5e-47c246ef0fcc" />
 
 
 
