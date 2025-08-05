@@ -1,5 +1,17 @@
 # 🐮 온습도 관리를 위한 스마트 축사
 
+
+## 시연영상
+유튜브 링크 : https://youtu.be/lQedsSYqslA
+
+
+![스마트축사_readme용](https://github.com/user-attachments/assets/866fb942-42ba-4ab1-b665-774e15bbe141)
+
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/f67c8c0f-f8d2-45f1-affd-1cbfc44b7652" />
+
+
 ## 개요
 이상기후로 이내 가축의 폐사가 급격히 증가,
 가축의 폐사가 곧 생산량 저하로 이어짐
@@ -53,11 +65,5 @@ STM32F411RE(ARM Cortex-M4), 라즈베리파이4B+ , 시프트레지스터칩(SN7
 
 
 
-## 테스트
-유튜브 링크 : https://youtu.be/lQedsSYqslA
-![스마트축사_readme용](https://github.com/user-attachments/assets/866fb942-42ba-4ab1-b665-774e15bbe141)
 
-
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6859aabb-3117-479b-af87-1067b29d99ed" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/f67c8c0f-f8d2-45f1-affd-1cbfc44b7652" />
 
